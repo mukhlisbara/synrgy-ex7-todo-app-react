@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Hit the gym",
+      "done": false
+    },
+    {
+      "title": "Pay bills",
+      "done": true,
+      "id": "2"
+    },
+    {
+      "id": "a8dc",
+      "title": "asdf",
+      "done": false
+    },
+    {
+      "id": "6f9e",
+      "title": "makan mie goreng",
+      "done": true
+    }
+  ]
+}
